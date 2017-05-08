@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tablasahvariabila.jnlp">
+  <information>
+    <title>Tablasahvariabila</title>
+    <vendor>sulitas</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tablasahvariabila.jar" size="3033" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Tablasahvariabila" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="tablasahvariabila.Tablasahvariabila"  name="Tablasahvariabila" />
+  <update check="always"/>
+</jnlp>
