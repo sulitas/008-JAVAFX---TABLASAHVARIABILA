@@ -9,5 +9,5 @@ The program allows:
 
 Functioning
 - Repetitive actuation button "Draw Table" leads to: 
-* changing the text on the label "Number of squares on row / column:" from 0 to 20. 
-* drawing a chess board having the number of lines and columns from 0-20.
+--- changing the text on the label "Number of squares on row / column:" from 0 to 20. 
+--- drawing a chess board having the number of lines and columns from 0-20.
